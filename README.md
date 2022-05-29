@@ -2,8 +2,11 @@
 
 This is a clone of PiggyVest's Landing page.
 
-#  Technologies Used
+#  Languages Used
 
-1.HTML
-2.CSS
-3.Visual Studio Code (a tool)
+1. HTML
+2. CSS
+
+# Tools
+
+1.Visual Studio Code
